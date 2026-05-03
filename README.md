@@ -25,7 +25,7 @@ Second Page:
 <img width="1080" height="2400" alt="2" src="https://github.com/user-attachments/assets/04438da5-fd1e-4fce-a2f9-80cf8527a0ed" />
 
 
-First activity Screen Shote:
+Second activity Screen Shote:
  First Page:
 <img width="1080" height="2400" alt="3" src="https://github.com/user-attachments/assets/04046379-0fe4-4c1f-a127-db209eb4d14e" />
 Second Page:
